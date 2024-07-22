@@ -1,6 +1,6 @@
 # Cover Letter
 
-Dear Mr. Attila Klenik,
+Dear Mr. XXX,
 
 I have become a self-taught Linux System Administrator for almost four years and continuously deepen my understanding in that area. Recently, I started to expand my skills in others, such as Software Engineering, DevOps, and Cloud Computing. I found out about this mentorship program because I always explore learning resources from The Linux Foundation.
 
